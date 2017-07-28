@@ -4,3 +4,5 @@ testbrach~~
 second add commit ;
 testbrach!
 
+
+Create a new branch is quick.
