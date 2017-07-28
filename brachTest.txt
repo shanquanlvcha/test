@@ -7,9 +7,12 @@ testbrach!
 
 Create a new branch is quick.
 
-Create a new branch is quick And simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
 
 
-Create a new brach is quick & simple.
 
-create a new branch is quick && simple.
+
+
+=======
+ 
