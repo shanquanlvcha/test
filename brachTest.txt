@@ -1,4 +1,6 @@
 first add commit ;
 testbrach~~
 :wq
+second add commit ;
+testbrach!
 
